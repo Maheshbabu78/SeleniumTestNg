@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-18T14:53:20 IST" name="Surefire suite" finished-at="2022-07-18T14:53:29 IST" duration-ms="8353">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T14:53:20 IST" name="Surefire test" finished-at="2022-07-18T14:53:29 IST" duration-ms="8353">
+      <class name="com.info.SeleniumTest.WebApplicationTesting">
+        <test-method is-config="true" signature="beforeTestCase()[pri:0, instance:com.info.SeleniumTest.WebApplicationTesting@6069db50]" started-at="2022-07-18T14:53:20 IST" name="beforeTestCase" finished-at="2022-07-18T14:53:22 IST" duration-ms="1994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="loginTestCase()[pri:0, instance:com.info.SeleniumTest.WebApplicationTesting@6069db50]" started-at="2022-07-18T14:53:22 IST" name="loginTestCase" finished-at="2022-07-18T14:53:29 IST" duration-ms="6093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method signature="sampleTestCase()[pri:0, instance:com.info.SeleniumTest.WebApplicationTesting@6069db50]" started-at="2022-07-18T14:53:29 IST" name="sampleTestCase" finished-at="2022-07-18T14:53:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestCase -->
+        <test-method is-config="true" signature="afterTestCase()[pri:0, instance:com.info.SeleniumTest.WebApplicationTesting@6069db50]" started-at="2022-07-18T14:53:29 IST" name="afterTestCase" finished-at="2022-07-18T14:53:29 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- com.info.SeleniumTest.WebApplicationTesting -->
+      <class name="com.info.SeleniumTest.ApplicationTesting">
+        <test-method signature="testCaseTwo()[pri:0, instance:com.info.SeleniumTest.ApplicationTesting@67d48005]" started-at="2022-07-18T14:53:22 IST" name="testCaseTwo" finished-at="2022-07-18T14:53:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseTwo -->
+      </class> <!-- com.info.SeleniumTest.ApplicationTesting -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
